@@ -1,0 +1,6 @@
+1. Failing Test (function not yet implemented) -OK-
+2. The function findSpaces returns [0,0] on a 1x1 map -OK-
+3. The function returns [0,0] on a 5x5 map -OK-
+4. The function outputs the correct column coordinates -OK-
+5. The function outputs the correct row coordinates -OK-
+6. The function returns the string "Spaceship lost forever." if no spaceship is found -OK-
